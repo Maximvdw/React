@@ -29,4 +29,4 @@ Still debating on this. It is clear that react will have a much simpler configur
 We will still run FULL support for 1.8 and up. 1.7 is a different story. A lot of the new features in r6 may be disabled if you use it on 1.7. We aren't going to block 1.7 usage, (modpacksftw), but react may not have all features working (they will be turned off cleanly)
 
 ### Why is my question not here?
-It's 30 degrees in this room, my fingers are frosted over.
+It's 30 degrees farenheit in this room, my fingers are frosted over.
